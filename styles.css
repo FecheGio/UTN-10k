@@ -1,0 +1,36 @@
+body{
+	background-color: #08A7E0;
+	padding:0;
+	margin:0;
+	
+}
+h1{
+	color: #000000;
+}
+#banner{
+	padding:50px;
+}
+.navbar-header .navbar-brand #brand-image{
+	
+}
+#brand-image{
+	padding:0;
+	margin:0;
+	height:50px;	
+}
+footer{
+	background-color: #0D1E37;
+	text-align:center;
+	width:100%;
+	position:fixed;
+	bottom:0;
+	height: 100px;
+}
+footer p{
+	color:#D4D5EC;
+	padding: 10px;
+}
+
+.fa-heart{
+	color:#F37BAB;
+}
